@@ -1,7 +1,7 @@
 {
-    "request_count": 20,
+    "request_count":999999999999999999999999,
     "load_type": "linear",
-    "duration": 5,
+    "duration": 999999999999999999,
     "proxy": "http://proxy_host.com:proxy_port",
     "output": "stdout",
     "steps": [
